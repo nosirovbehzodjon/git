@@ -1,0 +1,35 @@
+[33mcommit 66bac646849ace648ffd1cf7159cd61ba8109c78[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: f6a7bc0 bc032c0
+Author: Nosirov Behzod <87975515+nosirovbehzodjon@users.noreply.github.com>
+Date:   Thu Aug 24 10:49:06 2023 +0500
+
+    Merge pull request #2 from nosirovbehzodjon/develop
+    
+    version 1.2
+
+[33mcommit f6a7bc0a8078443f4b69ce4173e94d8870aa7901[m
+Merge: 0e01b6e ad948cd
+Author: Nosirov Behzod <87975515+nosirovbehzodjon@users.noreply.github.com>
+Date:   Thu Aug 24 10:46:20 2023 +0500
+
+    Merge pull request #1 from nosirovbehzodjon/develop
+    
+    version 1.1
+
+[33mcommit bc032c095a7c206b7b0889540569ae41fdcab4ea[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: nosirovbehzodjon <behzodnosirovofficial@gmail.com>
+Date:   Thu Aug 24 10:44:04 2023 +0500
+
+    version 1.2
+
+[33mcommit ad948cdc03b192868f300b586ec09d869ab172ea[m
+Author: nosirovbehzodjon <behzodnosirovofficial@gmail.com>
+Date:   Thu Aug 24 10:41:45 2023 +0500
+
+    version 1.1
+0e01b6ee93337b8f4e82b73c10b85d5adf637239
+[33mcommit [m
+Author: nosirovbehzodjon <behzodnosirovofficial@gmail.com>
+Date:   Thu Aug 24 10:39:21 2023 +0500
+
+    version 1.0
